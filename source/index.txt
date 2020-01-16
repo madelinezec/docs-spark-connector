@@ -2,10 +2,7 @@
 MongoDB Connector for Spark
 ===========================
 
-TEST!This is maddieeeee!
-TEST!This is maddieeeee!
-TEST!This is maddieeeee!
-
+lakjsdlkajsdlkjasdlk
 .. default-domain:: mongodb
 
 The `MongoDB Connector for Spark
