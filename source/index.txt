@@ -2,14 +2,7 @@
 MongoDB Connector for Spark
 ===========================
 
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-I, Maddie, am here to test you!
-
+NOOOOOO! I LOVE SUGAR
 .. default-domain:: mongodb
 
 The `MongoDB Connector for Spark
