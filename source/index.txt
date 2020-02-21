@@ -2,7 +2,6 @@
 MongoDB Connector for Spark
 ===========================
 
-NOOOOOO! I LOVE SUGAR
 .. default-domain:: mongodb
 
 The `MongoDB Connector for Spark
