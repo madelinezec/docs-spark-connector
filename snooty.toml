@@ -1,5 +1,6 @@
 name = invalid
 
+
 [constants]
 current-version = "2.4.0"
 spark-core-version = "2.4.0"
