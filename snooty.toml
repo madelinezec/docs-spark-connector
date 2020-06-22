@@ -1,4 +1,4 @@
-name = "spark-connector"
+name = invalid
 
 [constants]
 current-version = "2.4.0"
