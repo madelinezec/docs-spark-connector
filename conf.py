@@ -62,9 +62,9 @@ extlinks = {
 }
 
 source_constants = {
-    'current-version': '2.4.1',
-    'spark-core-version': '2.4.1',
-    'spark-sql-version': '2.4.1'
+    'current-version': '2.4.2',
+    'spark-core-version': '2.4.2',
+    'spark-sql-version': '2.4.2'
 }
 
 intersphinx_mapping = {}
@@ -98,7 +98,6 @@ html_split_index = False
 html_show_sourcelink = False
 html_show_sphinx = True
 html_show_copyright = True
-html_add_permalinks = ''
 
 manual_edition_path = '{0}/{1}/{2}.{3}'
 
